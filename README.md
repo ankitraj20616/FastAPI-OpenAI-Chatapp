@@ -1,4 +1,4 @@
-# 🤖 AI Chat — Production ChatGPT Clone
+#  AI Chat — Production ChatGPT Clone
 
 A production-grade ChatGPT-like app built with **FastAPI**, **React**, **MongoDB**, and **OpenAI**.
 
