@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+backend/.env
+
+# Node.js
+node_modules/
+dist/
+.npm
+.eslintcache
+
+# Project specific
+frontend/node_modules/
+frontend/dist/
